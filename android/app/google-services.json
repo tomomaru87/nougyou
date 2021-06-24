@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "603548416095",
+    "project_id": "agri-6c6ce",
+    "storage_bucket": "agri-6c6ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603548416095:android:08c44ad8ea7616f89a83ea",
+        "android_client_info": {
+          "package_name": "com.sea.nougyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603548416095-p7sb0igudfhnjkum9vgp922b72ugakph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8MQBFvOstZjNlWY3FO6npuQeC1A1YNDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603548416095-p7sb0igudfhnjkum9vgp922b72ugakph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "603548416095-p96aihtan8mih34roiv3j9rj53gs8oo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sea.nougyou"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
